@@ -14,7 +14,7 @@ description: Embrace the better
 
 <a
 href="https://paquet.shop"
-style="text-align: center; padding: .5rem 1rem; width: 100%; display: block; border: 1px solid rebeccapurple; border-radius: 5rem; text-decoration: none; color: rebeccapurple">
+style="text-align: center; padding: .5rem 0; width: 100%; display: block; border: 1px solid rebeccapurple; border-radius: 5rem; text-decoration: none; color: rebeccapurple">
 Open app
 </a>
 
@@ -35,11 +35,11 @@ updates. That's why we made Paquet.
 #### Our team
 
 <img 
-	src=""
-	style="width: 100%; max-height: 128px"
+	src="/static/group.jpg"
+	style="width: 100%; max-height: 256px; object-fit: cover; object-position: left 25%"
 />
 
-Our team is composed of **Sultan**, **Stefanos**, **Gabriela**, **Lara**,  and **Mario**
+Our team is composed of **Lara**, **Gabriela**, **Aleyna**, **Sultan**, **Stefanos** and **Mario**
 
 There is no boss, we all have equal shares and power in the company.
 This way we can ensure that we have a lot of brain power and decisions
